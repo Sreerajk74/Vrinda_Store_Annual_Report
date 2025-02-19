@@ -22,7 +22,7 @@
 -  Women are more likely to buy compared to men.
 -  Highest sales & orders is in March month.
 -  Maharashtra, Karnataka, Uttar Pradesh are the top 3 states.
--  Adult age group (30-49) is the most contributing.
+-  Adult age group (20-49) is the most contributing.
 -  Amazon, Flipkart, Myntra is the max contributing.
 
-📝Final Conclusion: Target women customers of age group (30-49 years) living in Maharashtra, Karnataka and Uttar Pradeesh by showing ads/offers/coupons available on Flipkart, Amazon and Myntra.
+📝Final Conclusion: Target women customers of age group (20-49 years) living in Maharashtra, Karnataka and Uttar Pradeesh by showing ads/offers/coupons available on Flipkart, Amazon and Myntra.
